@@ -1,4 +1,4 @@
-// Age calculator
+// Age calculator // Develop by ankit14120 for information purpose only
 #include<stdio.h>
 #include<conio.h>
 void main()
@@ -51,4 +51,4 @@ void main()
 	printf("\n your are %d year old ",d);
 	printf("\n\t\n you are %dyears %dmonths %ddays",d,b-m2,c-d2);
 getch();
-}
+}			// Develop by ankit14120 for information purpose only
